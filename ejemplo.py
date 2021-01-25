@@ -8,3 +8,5 @@ colores = ["rojo","amarillo","verde"]
 for color in colores:
     print(color)
 
+for i in range (10):
+    print(i+1)
