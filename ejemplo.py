@@ -8,3 +8,7 @@ colores = ["rojo","amarillo","verde"]
 for color in colores:
     print(color)
 
+def saludar():          
+    print("Buen dia")
+
+saludar()
