@@ -10,3 +10,6 @@ for color in colores:
 
 for i in range (10):
     print(i+1)
+
+
+#Alo va a hacer su desastre :)
